@@ -7,3 +7,5 @@ author: Template bot
 ---
 
 An update for our users
+
+An update for 2023
